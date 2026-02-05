@@ -1,8 +1,8 @@
 diff --git a/dist/core/skills.js b/dist/core/skills.js
-index 6f6a42e6f6fa3a6cf88e8d92f0f5910cc6e03651..49f430783271fee6428c758328dfb703c11e933e 100644
+index 850c11526d22c447db4e018680811cb431c202b8..9231bd8d85e2f1426ed8c1a03334caa3c1c0a5ac 100644
 --- a/dist/core/skills.js
 +++ b/dist/core/skills.js
-@@ -95,6 +95,10 @@ function loadSkillsFromDirInternal(dir, source, includeRootFiles) {
+@@ -70,6 +70,10 @@ function loadSkillsFromDirInternal(dir, source, includeRootFiles) {
              if (entry.name === "node_modules") {
                  continue;
              }
