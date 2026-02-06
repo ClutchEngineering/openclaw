@@ -212,10 +212,7 @@
       "node-llama-cpp",
       "protobufjs",
       "sharp"
-    ],
-    "patchedDependencies": {
-      "@mariozechner/pi-coding-agent@0.51.6": "patches/@mariozechner__pi-coding-agent@0.51.6.patch"
-    }
+    ]
   },
   "vitest": {
     "coverage": {
